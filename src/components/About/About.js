@@ -7,7 +7,7 @@ const About = () => {
 		<section id="about">
 			<h2 className="heading-secondary">About me</h2>
 			<div className="about-block">
-				<img className="my-img" src={myImg} alt="profile-photo" />
+				<img className="my-img" src={myImg} />
 
 				<div className="my-about">
 					<span className="big-inverted-coma">“</span>
