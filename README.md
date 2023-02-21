@@ -2,15 +2,15 @@
 
 ## Tech Stack
 
-    - ReactJS
-    - CSS
-    - Fontawesome
+- ReactJS
+- CSS
+- Fontawesome
 
 ## Feature
 
-    - Responsive
-    - Dasrk/Light Mode
-    - Creative
+ - Responsive
+ - Dark/Light Mode
+ - Creative
 
 ### Find any bug?
 
